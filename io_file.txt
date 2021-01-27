@@ -1,0 +1,3 @@
+I am adding a new line in a new file
+Appending an another line at the bottom
+Appending an another line at the bottom
