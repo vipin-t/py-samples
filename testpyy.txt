@@ -2,5 +2,4 @@ adding a file directly on the remote repository
 will be then fetched from the local repo
 
 adding few more content
-then will check and merge
-will see how the merge works
+changing few lines
